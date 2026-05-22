@@ -1,0 +1,6 @@
+{
+  "name": "TikLoder",
+  "description": "Download TikTok videos without watermark in HD quality using TikLoder. Free TikTok MP4 and MP3 downloader with instant downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
